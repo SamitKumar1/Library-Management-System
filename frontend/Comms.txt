@@ -1,0 +1,7 @@
+Run Backend
+
+.\mvnw.cmd spring-boot:run
+
+Check Database Entries
+
+http://localhost:8080/books
